@@ -10,7 +10,7 @@ config.plugins.push(
     new HashOut({
         file: 'dist/hash',
         prepend: '{ hash: "',
-        append: '" },
+        append: '" }',
     })
 );
 

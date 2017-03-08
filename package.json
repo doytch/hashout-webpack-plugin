@@ -1,6 +1,6 @@
 {
   "name": "hashout-webpack-plugin",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Output the build hash from your Webpack builds to a file.",
   "main": "index.js",
   "scripts": {
