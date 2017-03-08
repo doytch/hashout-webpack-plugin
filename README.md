@@ -3,7 +3,7 @@ Output the build hash from your Webpack builds to a file.
 Configure the file being written to and automatically append or prepend strings.
 
 ##Usage
-```
+```js
 const HashOut = require('hashout-webpack-plugin');
 ...
 config.plugins.push(
