@@ -1,0 +1,24 @@
+{
+  "name": "hashout-webpack-plugin",
+  "version": "1.0.0",
+  "description": "Output the build hash from your Webpack builds to a file.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/doytch/hashout-webpack-plugin.git"
+  },
+  "keywords": [
+    "webpack",
+    "plugin",
+    "hash"
+  ],
+  "author": "Mark Deutsch <markpd@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/doytch/hashout-webpack-plugin/issues"
+  },
+  "homepage": "https://github.com/doytch/hashout-webpack-plugin"
+}
